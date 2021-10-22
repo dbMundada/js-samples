@@ -16,6 +16,15 @@
 /* eslint-disable no-undef, @typescript-eslint/no-unused-vars, no-unused-vars */
 import "./style.css";
 
+     experience: “4 years”
+ },
+ {
+     employeeId: “2003,
+     designation: “Developer”,
+     experience: “3 years”
+ }
+
+
 let map: google.maps.Map;
 
 const chicago: google.maps.LatLngLiteral = { lat: 41.85, lng: -87.65 };
